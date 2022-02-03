@@ -1,0 +1,8 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bk973/nodejspractice.git",
+  "author": "Benjamin Kalungi <benkalungi256@gmail.com>",
+  "license": "MIT"
+}
